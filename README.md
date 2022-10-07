@@ -1,5 +1,7 @@
-<img width="771" alt="Katsushika Hokusai, 1830 Fuji" 
-     src="![image](https://user-images.githubusercontent.com/26147797/194560746-1f84eccb-ffe0-4948-b14c-050efe658e6e.png)">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/26147797/194560746-1f84eccb-ffe0-4948-b14c-050efe658e6e.png" alt="Katsushika Hokusai, 1830 Fuji" width="700"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Emin</h1>
 
@@ -10,9 +12,9 @@
 - 🌱 Currently learning: Federated Learning, Advanced Bayesian Methods.
 - 💬 Love to talk about: computer science, psychiatry, technology, blockchain.
 
-<br/><br/>
 
-## 🔨 Stack
+<h2 align="center">🔨 Stack</h2>
+
 Languages:
 - 🐍 Python
 - MATLAB
