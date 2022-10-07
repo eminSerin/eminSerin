@@ -12,6 +12,7 @@
 - 🌱 Currently learning: Federated Learning, Advanced Bayesian Methods.
 - 💬 Love to talk about: computer science, psychiatry, technology, blockchain.
 
+<br/><br/>
 
 <h2 align="center">🔨 Stack</h2>
 
